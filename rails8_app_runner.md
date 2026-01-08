@@ -176,3 +176,7 @@ docker push $AWS_ACCOUNT_ID.dkr.ecr.$REGION.amazonaws.com/myapp-backend:latest
 - [AWS App Runner Documentation](https://docs.aws.amazon.com/apprunner/)
 
 
+
+
+
+
